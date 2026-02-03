@@ -1,0 +1,56 @@
+body {
+    background-color: #f4f7f6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+    background: white;
+    margin-bottom: 20px;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-2px);
+}
+
+.card-header {
+    background-color: transparent;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0;
+}
+
+h1.display-4 {
+    font-weight: 700;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+#price-eur {
+    font-weight: 800;
+    color: #27ae60;
+}
+
+#price-inr {
+    font-weight: 300;
+    color: #7f8c8d;
+    font-size: 1.5rem;
+}
+
+.btn-primary {
+    background-color: #3498db;
+    border: none;
+    padding: 12px;
+    font-weight: 600;
+}
+
+.btn-primary:hover {
+    background-color: #2980b9;
+}
+
+#scrape-status {
+    font-style: italic;
+    min-height: 20px;
+}
