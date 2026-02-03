@@ -74,6 +74,7 @@ Car-Price-Predictor/
 │
 ├── app.py
 ├── CarPricePrediction.ipynb
+├── requirements.txt
 └── README.md
 ```
 
