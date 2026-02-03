@@ -11,7 +11,7 @@ This project predicts the resale value of used cars based on patterns learned fr
 ---
 
 ## 🖥️ Application UI Preview
-![Car Price Predictor UI](assets/CarPricePredictor.png)
+![Car Price Predictor UI](assets/carPricePredictor.png)
 
 ---
 
