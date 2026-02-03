@@ -62,7 +62,7 @@ All predictions use the same pipeline that was trained on the dataset, ensuring 
 Car-Price-Predictor/
 │
 ├── assets/
-│   ├── carPricePredictor.png
+│   ├── CarPricePredictor.png
 │   └── style.css
 │
 ├── data/
