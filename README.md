@@ -23,8 +23,8 @@ The model is trained on a cleaned version of the **eBay Used Car Sales dataset**
 https://www.kaggle.com/datasets/sijovm/used-cars-data-from-ebay-kleinanzeigen
 
 The dataset contains historical used-car listings with:<br>
-Features: DateCrawled | VehicleType | RegistrationYear | Gearbox | Power | Model | Kilometer | RegistrationMonth | FuelType | Brand | Repaired | DateCreated | NumberOfPictures |PostalCode | LastSeen<br>
-Target Variable: Price (EUR)
+**Features:** _DateCrawled_ | _VehicleType_ | _RegistrationYear_ | _Gearbox_ | _Power_ | _Model_ | _Kilometer_ | _RegistrationMonth_ | _FuelType_ | _Brand_ | _Repaired_ | _DateCreated_ | _NumberOfPictures_ | _PostalCode_ | _LastSeen_<br>
+**Target:** _Price (EUR)_
 
 The raw dataset is cleaned and processed before being used for supervised machine learning.
 
