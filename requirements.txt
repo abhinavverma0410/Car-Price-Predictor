@@ -1,0 +1,18 @@
+# Data handling
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+joblib
+lightgbm
+category-encoders
+
+# Web Application
+dash
+dash-bootstrap-components
+plotly
+
+# Web Scraping
+requests
+beautifulsoup4
